@@ -2,7 +2,7 @@
 
 - Awesome teachers
 - Fun homework
-- Epic Learning
+- Epic learning
 
 ### Smiley Face
 

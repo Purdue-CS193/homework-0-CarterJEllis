@@ -4,13 +4,14 @@
 - Fun homework
 - Epic Learning
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Smiley Face
 
 ```markdown
-Syntax highlighted code block
+( ͡° ͜ʖ ͡° )
+```
 
+### Some Other Stuff   ╮(ﾟ～ﾟ)╭ 
+```
 # Hello
 ## Header 2
 ### Header 3
